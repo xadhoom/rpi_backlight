@@ -10,7 +10,7 @@ by adding `rpi_backlight` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:rpi_backlight, "~> 0.1.0"}
+    {:rpi_backlight, "~> 0.2"}
   ]
 end
 ```
